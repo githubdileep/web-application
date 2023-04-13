@@ -1,1 +1,1 @@
-# web application project sample
+# web application
